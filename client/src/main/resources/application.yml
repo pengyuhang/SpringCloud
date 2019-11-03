@@ -1,0 +1,8 @@
+eureka:
+  client:
+    service-url:
+#      defaultZone: http://47.93.14.213:8761/eureka/
+      defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/
+spring:
+  application:
+    name: client
