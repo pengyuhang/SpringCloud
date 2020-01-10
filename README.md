@@ -1,5 +1,5 @@
 Something just like this
 
-beautiful in the white
+Beautiful in white
 
 Sunshine in the rain
